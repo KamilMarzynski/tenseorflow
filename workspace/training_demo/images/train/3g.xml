@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>3g.jpg</filename>
+	<path>/Users/kamil/Documents/TensorFlow/workspace/training_demo/images/3g.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>821</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>marker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>963</xmin>
+			<ymin>388</ymin>
+			<xmax>1197</xmax>
+			<ymax>619</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>6a.jpg</filename>
+	<path>/Users/kamil/Documents/TensorFlow/workspace/training_demo/images/6a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>667</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>marker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>456</ymin>
+			<xmax>189</xmax>
+			<ymax>634</ymax>
+		</bndbox>
+	</object>
+</annotation>
